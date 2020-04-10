@@ -1,2 +1,2 @@
 Website
-domain is benbeatty.me
+domain was benbeatty.me
